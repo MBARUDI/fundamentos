@@ -14,13 +14,13 @@ function exemplo() {
 /*
 Comentário de múltiplas linhas explicando a lógica abaixo:
 A função soma dois números e retorna o resultado.
-*/
+
 function soma(a, b) {
     return a + b;
 }
 
 /*
-Problema 1 - Operadores Aritméticos
+Problema 2 - Operadores Aritméticos
 Lucas quer verificar se um cliente tem direito a um desconto de 20%. O cliente tem R$ 600,00 em compras.
 O desconto será dado apenas se o total de compras for maior que R$ 500,00.
 */
